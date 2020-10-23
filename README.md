@@ -1,2 +1,2 @@
 # Math-Web-PHP
-Web hecho en PHP 
+Página web sencilla y simple construida en Bootstrap y PHP.
